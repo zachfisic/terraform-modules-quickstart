@@ -1,0 +1,4 @@
+*.code-workspace
+*.tfstate*
+.terraform*
+*.terraform
